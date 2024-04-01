@@ -1,6 +1,6 @@
 # Different Labs
 # This is where You will do all your set up for the subsequent sections
-Lab 1) Set up a small virtualization environment (2 small VMs)
+[Lab 1) Set up a small virtualization environment (2 small VMs)](https://github.com/rasehum/Lab-compilation/tree/Setup-for-windows-and-Linux)
 #
 Lab 2) Making and observing some noise
 #
