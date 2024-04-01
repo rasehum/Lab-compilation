@@ -2,6 +2,18 @@ Take note, This is using done using VMWare Pro as You will need to use multiple 
 
 If you are unable to ping each other, create a new VNET and set it and leave it as auto bridging
 
+Linux (All important stuff)
+
+Username: attack
+
+password: password
+
+IP addreess: 192.168.239.129
+#
+Windows
+
+IP address: 192.168.239.128
+
 # Documentations of Labs
 # This is where You will do all your set up for the subsequent sections
 [Set up a small virtualization environment (2 small VMs)](https://github.com/rasehum/Lab-compilation/tree/Setup-for-windows-and-Linux)
