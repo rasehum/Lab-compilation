@@ -1,6 +1,6 @@
 Take note, This is using done using VMWare Pro as You will need to use multiple VMs at once and the VM Editor.
 
-# Different Labs
+# Lab Compiliations
 # This is where You will do all your set up for the subsequent sections
 Lab 1) Set up a small virtualization environment (2 small VMs)
 #
