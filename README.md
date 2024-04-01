@@ -11,5 +11,6 @@ Lab 4) Blocking an attack
 Lab 5) Tuning false positives
 #
 Lab 6) Trigger YARA scans with a detection rule
+#
 
 All of this is taken from https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?sd=pf
