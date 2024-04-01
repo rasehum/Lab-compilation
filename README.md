@@ -1,4 +1,5 @@
 Take note, This is using done using VMWare Pro as You will need to use multiple VMs at once and the VM Editor.
+If you are unable to ping each other, create a new VNET and set it and leave it as auto bridging
 
 # Documentations of Labs
 # This is where You will do all your set up for the subsequent sections
