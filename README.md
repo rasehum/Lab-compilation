@@ -1,5 +1,7 @@
-Take note, This is using done using VMWare Pro as You will need to use multiple VMs at once and the VM Editor.
 
+#This Lab is just the documentation for set up, there might be some changes for IP address, but other than that, it should be the same.. 
+Take note, This is using done using VMWare Pro as You will need to use multiple VMs at once and the VM Editor.
+#
 If you are unable to ping each other, create a new VNET and set it and leave it as auto bridging
 
 Linux (All important stuff)
