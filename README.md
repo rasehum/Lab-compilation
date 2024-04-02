@@ -5,11 +5,11 @@ This Lab is just the documentation for set up, there might be some changes for I
 Take note, This is using done using VMWare Pro as You will need to use multiple VMs at once and the VM Editor.
 
 #
-If you are unable to ping each other, create a new VNET and set it and leave it as auto bridging
+If you are unable to ping each other, create a new VNET and set it and leave it as auto bridging. Afterwards, disable the firewall just for pinging.
 
 Linux (All important stuff)
 
-Username: attack
+Username: user
 
 password: password
 
