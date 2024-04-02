@@ -6,7 +6,7 @@ Username: attack
 
 password: password
 
-IP addreess: 192.168.239.129
+IP address: 192.168.239.129
 #
 Windows
 
