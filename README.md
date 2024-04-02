@@ -2,7 +2,7 @@ Take note, This is using done using VMWare Pro as You will need to use multiple 
 #
 Linux (All important stuff)
 
-Username: attack
+Username: user
 
 password: password
 
