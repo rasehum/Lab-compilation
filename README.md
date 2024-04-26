@@ -16,7 +16,7 @@ IP address: 192.168.239.128
 # This is where You will do all your set up for the subsequent sections
 [Set up a small virtualization environment (2 small VMs)](https://github.com/rasehum/Lab-compilation/tree/Setup-for-windows-and-Linux)
 #
-Lab 1) Making and observing some noise
+Lab 1) [Making and observing some noise](https://github.com/rasehum/Lab-compilation/tree/Lab-1)
 #
 Lab 2) Emulating an adversary for crafting detections
 #
