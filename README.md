@@ -18,7 +18,7 @@ IP address: 192.168.239.128
 #
 Lab 1) [Making and observing some noise](https://github.com/rasehum/Lab-compilation/tree/Lab-1)
 #
-Lab 2) Emulating an adversary for crafting detections
+Lab 2) [Emulating an adversary for crafting detections](https://github.com/rasehum/Lab-compilation/tree/Lab-2)
 #
 Lab 3) Blocking an attack
 #
