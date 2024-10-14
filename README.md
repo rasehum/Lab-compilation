@@ -20,7 +20,7 @@ Lab 1) [Making and observing some noise](https://github.com/rasehum/Lab-compilat
 #
 Lab 2) [Emulating an adversary for crafting detections](https://github.com/rasehum/Lab-compilation/tree/Lab-2)
 #
-Lab 3) Blocking an attack
+Lab 3) [Blocking an attack](https://github.com/rasehum/Lab-compilation/tree/Lab-3---Blocking-an-attack)
 #
 Lab 4) Tuning false positives
 #
